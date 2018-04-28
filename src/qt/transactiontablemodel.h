@@ -23,8 +23,8 @@ public:
         Date = 1,
         Type = 2,
         ToAddress = 3,
-        Narration = 4,
-        Amount = 5
+		Narration = 4,
+		Amount = 5
     };
 
     /** Roles to get specific information from a transaction row.
